@@ -2,10 +2,10 @@
 ### Contact information:
 #### E-mail: seregek89@gmail.com
 ### About me : 
-* #### *attentiveness 
-* #### *responsibility
-* #### *neatness 
-* #### *ready to learn new technologies
+* #### attentiveness 
+* #### responsibility
+* #### neatness 
+* #### ready to learn new technologies
 ### Basic knowledge:
 1. #### HTML
 2. #### CSS
